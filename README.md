@@ -23,3 +23,4 @@ This project is a fork of [Nubia Red Magic Ported Apps RM9P](https://github.com/
 
 - Polishing the localization of Vietnamese (our Fatherland language).
 - Change voice language to Chinese and Japanese (for details, read release notes).
+- Removed some unused voice language packs.
