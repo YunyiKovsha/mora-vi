@@ -9,17 +9,11 @@ You can download the <code>.apk</code> file from [releases](https://github.com/Y
 
 This project is a fork of [Nubia Red Magic Ported Apps RM9P](https://github.com/N3kowarrior/Nubia-Red-Magick-Ported-Apps-RM9P), originally created by [N3kowarrior](https://github.com/N3kowarrior). I am not affiliated with the original author, and any modifications in this version are my own.
 
-> [!NOTE]
-> **Modifications and Additions:**  
-> The following files contain modifications and contributions made by me:  
-> - `voice_components.zip`
-> - `values-vi.zip`
-
 > [!WARNING]
 > **Liability Disclaimer:**  
 > This project is provided "as-is" without any guarantees or warranties, whether express or implied. I am not responsible for any damages, losses, or issues arising from the use of this project. Users assume all risks associated with using this version.
 
-# More about this fork
+# About this fork
 
 - Polishing the localization of Vietnamese (our Fatherland language).
 - Change voice language to Chinese and Japanese (for details, read release notes).
