@@ -5,7 +5,7 @@ Use at your own risk, good luck!
 
 [![Downloads](https://img.shields.io/github/downloads/YunyiKovsha/mora-vi/total)](https://github.com/YunyiKovsha/mora-vi/releases)
 
-# Information 
+# Information
 
 This project is a fork of [Nubia Red Magic Ported Apps RM9P](https://github.com/N3kowarrior/Nubia-Red-Magick-Ported-Apps-RM9P), originally created by [N3kowarrior](https://github.com/N3kowarrior). I am not affiliated with the original author, and any modifications in this version are my own.
 
